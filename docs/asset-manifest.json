@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-nav/static/css/main.0553d329.chunk.css",
+    "main.js": "/React-nav/static/js/main.d83bcc93.chunk.js",
+    "main.js.map": "/React-nav/static/js/main.d83bcc93.chunk.js.map",
+    "runtime-main.js": "/React-nav/static/js/runtime-main.98917ea1.js",
+    "runtime-main.js.map": "/React-nav/static/js/runtime-main.98917ea1.js.map",
+    "static/js/2.5dba0b8b.chunk.js": "/React-nav/static/js/2.5dba0b8b.chunk.js",
+    "static/js/2.5dba0b8b.chunk.js.map": "/React-nav/static/js/2.5dba0b8b.chunk.js.map",
+    "index.html": "/React-nav/index.html",
+    "precache-manifest.d2b97ccf46d344ab532e50900d94bb8d.js": "/React-nav/precache-manifest.d2b97ccf46d344ab532e50900d94bb8d.js",
+    "service-worker.js": "/React-nav/service-worker.js",
+    "static/css/main.0553d329.chunk.css.map": "/React-nav/static/css/main.0553d329.chunk.css.map",
+    "static/js/2.5dba0b8b.chunk.js.LICENSE.txt": "/React-nav/static/js/2.5dba0b8b.chunk.js.LICENSE.txt",
+    "static/media/arrow.48ae6434.svg": "/React-nav/static/media/arrow.48ae6434.svg",
+    "static/media/bell.060ed2ed.svg": "/React-nav/static/media/bell.060ed2ed.svg",
+    "static/media/bolt.681afa2e.svg": "/React-nav/static/media/bolt.681afa2e.svg",
+    "static/media/caret.3660abd0.svg": "/React-nav/static/media/caret.3660abd0.svg",
+    "static/media/chevron.efbb2bd6.svg": "/React-nav/static/media/chevron.efbb2bd6.svg",
+    "static/media/cog.993f0cc0.svg": "/React-nav/static/media/cog.993f0cc0.svg",
+    "static/media/messenger.b183a44a.svg": "/React-nav/static/media/messenger.b183a44a.svg",
+    "static/media/plus.44917289.svg": "/React-nav/static/media/plus.44917289.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98917ea1.js",
+    "static/js/2.5dba0b8b.chunk.js",
+    "static/css/main.0553d329.chunk.css",
+    "static/js/main.d83bcc93.chunk.js"
+  ]
+}
